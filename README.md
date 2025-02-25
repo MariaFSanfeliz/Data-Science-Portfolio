@@ -32,10 +32,10 @@ This portfolio utilizes the following key technologies and libraries:
 
 ## Contact
 
-Maria Sanfeliz
-mfsanfeliz@gmail.com
-linkedin.com/in/maria-sanfeliz
-github.com/MariaFSanfeliz
+Maria Sanfeliz \
+mfsanfeliz@gmail.com \
+[linkedin.com/in/maria-sanfeliz](https://www.linkedin.com/in/maria-sanfeliz/?trk=opento_sprofile_details) \
+[github.com/MariaFSanfeliz](https://github.com/MariaFSanfeliz)
 
 
 ---
